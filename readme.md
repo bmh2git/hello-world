@@ -1,1 +1,1 @@
-foo This is my readme file.
+bar. This is my readme file.
